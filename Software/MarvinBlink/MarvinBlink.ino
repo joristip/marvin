@@ -12,6 +12,7 @@ void setup() {
   pinMode(13, OUTPUT);
   Serial.begin(57600);
   Serial.println("Starting program");
+  
 }
 
 // the loop function runs over and over again forever
